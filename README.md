@@ -64,4 +64,4 @@ Karpenter autoscaling · Argo Rollouts canary deploys · Kyverno policy-as-code 
 
 ## 📫 Get in touch
 
-Open to DevOps, platform and cloud engineering roles. See my [portfolio](https://venkatagopi-perumalla.github.io), connect on [LinkedIn](https://www.linkedin.com/in/venkata-gopi-perumalla/), or download my [CV](https://venkatagopi-perumalla.github.io/Venkata_Gopi_Perumalla_CV.pdf).
+Open to DevOps, platform and cloud engineering roles. See my [portfolio](https://venkatagopiperumalla.com), connect on [LinkedIn](https://www.linkedin.com/in/venkata-gopi-perumalla/), or download my [CV](https://venkatagopiperumalla.com/Venkata_Gopi_Perumalla_CV.pdf).
