@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Venkata Gopi 👋</h1>
-<p align="center"><b>DevOps / Platform Engineer</b> · AWS · Kubernetes · Terraform · GitOps · CI/CD</p>
+<p align="center"><b>DevOps & Site Reliability Engineer</b> · AWS · Kubernetes · Terraform · GitOps · CI/CD</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
