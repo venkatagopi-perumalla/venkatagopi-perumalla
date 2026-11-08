@@ -50,13 +50,13 @@ Three microservices on **Amazon EKS**. Infrastructure by **Terraform**, images b
 
 ## 🧰 Toolbox
 
-- **Cloud:** AWS — EKS, EC2, VPC, IAM, ECR, S3, Lambda, Secrets Manager, CodePipeline
-- **Containers & orchestration:** Docker, Docker Compose, Kubernetes, Helm, kind
-- **IaC:** Terraform (modules, S3 remote state with locking)
-- **CI/CD & GitOps:** GitHub Actions, Jenkins, Argo CD
-- **Security:** Trivy, Gitleaks, SonarQube, least-privilege IAM, hardened containers
-- **Observability:** Prometheus, Grafana, Loki, Grafana Alloy, SLOs and burn-rate alerts
-- **Languages:** Python (FastAPI, Flask), Bash, YAML
+- **Cloud:** AWS — EKS, ECS, EC2, VPC, IAM, ECR, S3, RDS, Lambda, CloudFront, CloudWatch, CloudTrail, Secrets Manager, CodePipeline
+- **Containers & orchestration:** Docker, Docker Compose, Kubernetes, Amazon EKS, Helm, kind
+- **IaC & configuration:** Terraform (modules, S3 remote state with locking), AWS CloudFormation, Ansible
+- **CI/CD & GitOps:** GitHub Actions, Jenkins (Pipeline, Multibranch, Groovy), Argo CD, Maven, SonarQube, JFrog Artifactory
+- **Security:** Trivy, Gitleaks, Kubernetes RBAC, network policies, least-privilege IAM, TLS, hardened containers
+- **Observability:** Prometheus, Grafana, Loki, Grafana Alloy, CloudWatch, ELK Stack, SLOs and burn-rate alerts
+- **Languages & systems:** Python (FastAPI, Flask), Bash, YAML · Linux (Ubuntu), Nginx, Apache Tomcat
 
 ## 🌱 Up next
 
